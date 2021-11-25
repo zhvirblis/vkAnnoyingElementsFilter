@@ -1,1 +1,1 @@
-# vkAnnoyingElementsFilter
+# Фильтр для uBlock / Adnauseam для блокировки бесячих элементов из VK
