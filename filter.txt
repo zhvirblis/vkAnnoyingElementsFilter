@@ -1,0 +1,10 @@
+vk.com###l_nwsf > .left_row
+vk.com##.ConvoRecommendList
+vk.com##.GroupsRecommendationsBlock.page_block
+vk.com##.friends_possible_block.page_block
+vk.com##.CatalogBlock__layout--placeholder.CatalogBlock__subscription.CatalogBlock__content
+vk.com##.TopNavBtn__ecosystemMenuLink.TopNavBtn
+vk.com##.top_profile_vkconnect_card_wrapper
+vk.com##.im-page--dialogs-call-wrap._ui_menu_wrap.ui_actions_menu_wrap
+vk.com##.audio_page_player_recoms.audio_page_player_btn
+vk.com##._audio_page_player_status.audio_page_player_status.audio_page_player_btn
