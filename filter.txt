@@ -11,7 +11,6 @@ vk.com##._audio_page_player_status.audio_page_player_status.audio_page_player_bt
 
 m.vk.com##div.BottomMenu__cell:nth-of-type(1)
 m.vk.com##div.BottomMenu__cell:nth-of-type(2)
-m.vk.com##.Row.Pad__header
 m.vk.com##.Row_style_noPaddingTop.Row.ServicesBar__row
 m.vk.com##.mmi_feed > .al_menu.mm_item
 m.vk.com##.mmi_ads > .al_menu.mm_item
@@ -22,3 +21,6 @@ m.vk.com##a.Row.al_menu.MainMenu__menuItem:nth-of-type(9)
 m.vk.com##a.Row.al_menu.MainMenu__menuItem:nth-of-type(6)
 m.vk.com##a.Row.al_menu.MainMenu__menuItem:nth-of-type(10)
 m.vk.com##a.Row.al_menu.MainMenu__menuItem:nth-of-type(11)
+
+m.vk.com##.ColumnSlider.TripleStackedSlider.AudioSlider.Slider
+
